@@ -5,7 +5,7 @@ SetCompressor /SOLID lzma
 
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
-!define VERSION 0.1.0
+!define VERSION 0.1.1
 !define COMPANY "Nibble project"
 !define URL http://www.nibble.org/
 
@@ -45,7 +45,7 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile nibble-0.1.0-win32-setup.exe
+OutFile nibble-0.1.1-win32-setup.exe
 InstallDir $PROGRAMFILES\Nibble
 CRCCheck on
 XPStyle on
