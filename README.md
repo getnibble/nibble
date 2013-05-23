@@ -4,16 +4,16 @@ Specs:
 
 Ascending reward system to stave off insta-mining, pre-mining, unfair rewards for early adopters.
 
-Block 1 - 2016 @ 1 NIB
-Block 2017 - 4032 @ 2 NIB's
-Block 4033 - 6047 @ 4 NIB's
-Block 6048 - 8063 @ 8 NIB's
-Block 8064 - 10079 @ 16 NIB's
-Block 10080 - 12095 @ 32 NIB's *** Difficulty SHOULD reach 1+ at this point.  Total NIB's mined = 127,004
-Block 12096 - 219555 @ 50 NIB's
-Block 219556 - 639555 @ 25 NIB's
+Block 1 - 2016 @ 1 NBL
+Block 2017 - 4032 @ 2 NBL
+Block 4033 - 6047 @ 4 NBL
+Block 6048 - 8063 @ 8 NBL
+Block 8064 - 10079 @ 16 NBL
+Block 10080 - 12095 @ 32 NBL *** Difficulty SHOULD reach 1+ at this point.  Total NBL mined = 127,004
+Block 12096 - 219555 @ 50 NBL
+Block 219556 - 639555 @ 25 NBL
 
-21,000,004 total NIB's (4 more than Bitcoin)
+21,000,004 total NBL (4 more than Bitcoin)
 639,555 total blocks
 2 1/2 minute blocks (4 times faster than Bitcoin)
 2016 Block Difficulty Retarget
@@ -22,7 +22,7 @@ Why is this system better?
 
 Litecoin's 1st 12,096 blocks produced 604,800 LTC - though GPU mining wasn't released to the general public (but that's not it wasn't used)
 Feathercoin's 1st 12,096 blocks produced 2,419,200 FTC
-Nibble's 1st 12,096 blocks will produce 127,054 NIB
+Nibble's 1st 12,096 blocks will produce 127,054 NBL
 
 Ports:
 8550 Connect
